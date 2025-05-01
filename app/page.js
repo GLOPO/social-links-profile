@@ -23,6 +23,7 @@ const Home = () => {
           <Link href={'https://www.linkedin.com/in/glory-uka-494b10336/'} className='bg-[hsl(0,0%,20%)] text-center font-bold w-full rounded p-2 hover:bg-[hsl(75,94%,57%)] hover:text-[#141414] cursor-pointer'>LinkedIn</Link>
           <Link href={'https://x.com/techglory_swe'} className='bg-[hsl(0,0%,20%)] text-center font-bold w-full rounded p-2 hover:bg-[hsl(75,94%,57%)] hover:text-[#141414] cursor-pointer'>X</Link>
           <Link href={'https://www.instagram.com/glorya_uka/'} className='bg-[hsl(0,0%,20%)] text-center font-bold w-full rounded p-2 hover:bg-[hsl(75,94%,57%)] hover:text-[#141414] cursor-pointer'>Instagram</Link>
+          <Link href={'https://www.techglory-swe.vercel.app'} className='bg-[hsl(0,0%,20%)] text-center font-bold w-full rounded p-2 hover:bg-[hsl(75,94%,57%)] hover:text-[#141414] cursor-pointer'>Portfolio</Link>
         </div>
       </section>
     </main>
